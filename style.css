@@ -1,0 +1,173 @@
+@media (max-width:768px){
+  #section-240 .mauticform_wrapper {
+  margin: 0 auto!important;
+}
+  #section-240 .c-wrapper {
+    margin: auto!important;
+  }
+}
+section#section-240  * {
+  font-family: 'Roboto', sans-serif;
+
+}
+
+#section-240 .gradient-left {
+  background: linear-gradient(45deg, rgba(78, 29, 74, 1) 0%, rgba(223, 52, 67, 1) 100%);
+  min-height: 100vh;
+  padding: 20px 20px 20px 40px;
+}
+
+#section-240 .mauticform_wrapper {
+  max-width: 600px;
+  margin: 0 10px 0 auto;
+}
+
+#section-240 .divider {
+  height: 1px;
+  width: 100px;
+  margin: 10px auto 10px 0;
+  background-color: white;
+
+}
+
+#section-240 .divider-red {
+  background-color: #ff0f2d;
+}
+
+#section-240 form {
+  background: white;
+  position: relative;
+  margin: 80px 0 100px 0;
+  padding: 20px 25px;
+
+  border-radius: 20px;
+}
+
+#section-240 h2 {
+  font-size: 22px;
+  width: 70%;
+  font-weight: bold;
+}
+
+#section-240 h3 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 25px;
+}
+
+#section-240 .color-white {
+  color: white;
+}
+
+#section-240 form img {
+  position: absolute;
+  right: -20px;
+  top: -50px;
+  max-width: 150px;
+}
+
+#section-240 .card-red {
+  background-color: #ee3442;
+  border-radius: 10px;
+  padding: 20px;
+  color: white;
+  box-shadow: 0px 0px 20px 0px #3e3e3e6e;
+}
+
+#section-240 .c-wrapper {
+  max-width:600px;
+}
+
+#section-240 .card-red h2 {
+  color: white;
+  font-size: 30px;
+  width: 100%;
+  text-transform: uppercase;
+}
+
+#section-240 ul {
+  margin: 0;
+  padding-left: 0em;
+}
+
+#section-240 ul li {
+  color: white;
+  padding-left: 20px;
+  margin-left: 15px;
+}
+
+#section-240 li::marker {
+  font: normal normal normal 14px/1 FontAwesome;
+  content: "\f14a";
+  padding-right: 10px;
+
+}
+
+#section-240 .mauticform-field-hidden {
+  display: none;
+}
+
+#section-240 .mauticform-page-wrapper {
+  margin-top: 20px;
+}
+
+#section-240 .mauticform-row {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
+
+#section-240 .mauticform-row label {
+  margin-bottom: 2px;
+  color: #404042;
+  font-family: 'Roboto', Arial;
+  font-weight: 500;
+  font-size: 18px;
+  margin-left: 10px;
+}
+
+::-webkit-input-placeholder {
+  color: transparent;
+}
+
+:-ms-input-placeholder {
+  color: transparent;
+}
+
+#section-240 .mauticform-row input,
+#section-240 .mauticform-row select {
+  padding: 15px 10px;
+  border-radius: 5px;
+  font-size: 18px;
+  line-height: 22px;
+  border: 2px solid #c2c2c2;
+}
+
+#section-240 .mauticform-row button {
+  padding: 10px;
+  font-size: 18px;
+}
+
+#section-240 .white-right {
+  padding: 40px 40px;
+  margin: 0px auto 0 0px !important;
+  background-color: #e7e8ea;
+
+}
+
+#section-240 .choices {
+  margin: 30px auto 10px;
+  font-size: 25px;
+
+}
+
+#section-240 .our-clients {
+  font-family: Oswald, Roboto;
+  color: #ff0f2d;
+  font-weight: 600;
+  margin-top: 20px;
+}
+
+#section-240 img {
+  width:100%;
+}
