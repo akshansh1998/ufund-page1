@@ -1,5 +1,3 @@
-<script src="https://kit.fontawesome.com/368651d9a2.js" crossorigin="anonymous"></script>
- 
     /** This section is only needed once per page if manually copying **/
     if (typeof MauticSDKLoaded == 'undefined') {
         var MauticSDKLoaded = true;
